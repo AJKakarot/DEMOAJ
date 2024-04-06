@@ -1,2 +1,2 @@
 # DEMOAJ
-Learning Git &amp; Github ...
+Learning Git &amp; Github .
